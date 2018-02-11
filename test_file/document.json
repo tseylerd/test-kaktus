@@ -1,0 +1,36 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "c6706500-0f38-11e8-accf-7bb61a91cf98",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "43.2",
+    "build": 39069,
+    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+    "version": 88
+  },
+  "pages": [
+    "Page 1"
+  ]
+}
